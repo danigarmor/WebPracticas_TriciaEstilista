@@ -17,4 +17,3 @@ The goal was to create a simple, elegant, and functional website that reflects t
 
 🛠️ Built With
 HTML5 / CSS3 🌐
-[X] #index.html
