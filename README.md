@@ -18,4 +18,7 @@ The goal was to create a simple, elegant, and functional website that reflects t
 🛠️ Built With
 HTML5 / CSS3 🌐
 ### 📥 Download
-[![Download HTML](https://img.shields.io/badge/⬇️_Download-index.html-blue?style=for-the-badge)](https://raw.githubusercontent.com/danigarmor/WebPracticas_TriciaEstilista/main/index.html)
+[![Download HTML](https://img.shields.io/badge/⬇️_Download-index.html-blue?style=for-the-badge)](https://raw.github.com/danigarmor/WebPracticas_TriciaEstilista/main/index.html)
+
+### 🌐 Live Demo
+[🔗 View Live Site](https://danigarmor.github.io/WebPracticas_TriciaEstilista/)
