@@ -27,7 +27,7 @@ The goal was to create a simple, elegant, and functional website that reflects t
 
 ## 📥 Download
 
-[![Descargar HTML](https://img.shields.io/badge/⬇️_Descargar-index.html-blue?style=for-the-badge)](https://danigarmor.github.io/WebPracticas_TriciaEstilista/descargar.html)
+[![Descargar HTML](https://img.shields.io/badge/⬇️_Descargar-index.html-blue?style=for-the-badge)](https://raw.githubusercontent.com/danigarmor/WebPracticas_TriciaEstilista/refs/heads/main/index.html?token=GHSAT0AAAAAAEIRNSFQO6HPZWO2INQSMHN42VKI3EQ)
 
 ## 🌐 Live Demo
 
